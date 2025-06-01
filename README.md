@@ -4,7 +4,6 @@
 
 ### Key Features  
 - Sleek & Modern UI/UX design.  
-- Built-in seatbelt logic, no external scripts required.  
 - Optimized for performance — lightweight and responsive.
 - Scales seamlessly across most if not all resolutions, aspect ratios, and safe zones.
 - Includes built-in, lightweight & efficient seatbelt logic for immersion.
